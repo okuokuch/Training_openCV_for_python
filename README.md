@@ -19,10 +19,10 @@ template_imgに練習で使用する画像が入っています。
 * openCV_Tutrial.ipynb  
 これが動画で用いているノートブックドキュメントです。  
 この中に関数の説明を記入しています。
-* openCV_training_problems.ipynb
-OpneCVを用いる練習問題を載せています。
-* openCV_training_problems_answer.ipynb
-練習問題の答えの一例を記入しています。
+* openCV_training_problems.ipynb  
+OpneCVを用いる練習問題を載せています。  
+* openCV_training_problems_answer.ipynb  
+練習問題の答えの一例を記入しています。  
 
 ## 解説動画
 Youtubeにて解説動画を投稿しています。  
