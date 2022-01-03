@@ -26,7 +26,8 @@ OpneCVを用いる練習問題を載せています。
 
 ## 解説動画
 Youtubeにて解説動画を投稿しています。  
-その内容をもとに問題を解いてみてください。
+その内容をもとに問題を解いてみてください。  
+https://www.youtube.com/channel/UCZBTAdesZ9aJjSJ33RXy8bw
 
 ## 参考
 OpenCV_pythonのドキュメント
