@@ -1,0 +1,2 @@
+# Training_openCV_for_python
+openCVのチュートリアルに沿って基本技術を学ぶ。
